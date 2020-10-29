@@ -9,7 +9,13 @@ npx json-server server.js -d 2000 -w -p 3333
 ```
 
 Now fake API is running local on port 3333.
-After run it, you can now start app for development:
+After run it, install dependencies:
+
+```
+yarn
+```
+
+Now, you can now start app for development:
 
 ```
 yarn dev
