@@ -1,7 +1,7 @@
 # Next.js features examples
 
 Some examples made with next.js, chakra-ui and styled-components, just for testing porpouse.
-This app requires and api for products list, to serve and fake api run:
+This app requires and API for products list, to serve and fake api run:
 
 ```
 npx json-server server.js -d 2000 -w -p 3333
