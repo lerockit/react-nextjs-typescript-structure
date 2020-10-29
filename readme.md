@@ -22,5 +22,5 @@ yarn build
 yarn start
 ```
 
-Either, app will run local on port 3000.
+In both, app will run local on port 3000.
 
